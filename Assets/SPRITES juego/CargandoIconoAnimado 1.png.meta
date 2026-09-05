@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: fa9ef1700f008ca43b30b091a128615f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 606777933930187581
+    second: CargandoIconoAnimado_0
+  - first:
+      213: 5283685362912448483
+    second: CargandoIconoAnimado_1
+  - first:
+      213: 8079687183560619249
+    second: CargandoIconoAnimado_2
+  - first:
+      213: 6448230399512793662
+    second: CargandoIconoAnimado_3
+  - first:
+      213: 3617254078182041993
+    second: CargandoIconoAnimado_4
+  - first:
+      213: -4371388093161893655
+    second: CargandoIconoAnimado_5
+  - first:
+      213: 8490574753305743277
+    second: CargandoIconoAnimado_6
+  - first:
+      213: 1992754135818980450
+    second: CargandoIconoAnimado_7
+  - first:
+      213: -5023974661294433831
+    second: CargandoIconoAnimado_8
+  - first:
+      213: -6750415050294785451
+    second: CargandoIconoAnimado_9
+  - first:
+      213: -5989127415150651298
+    second: CargandoIconoAnimado_10
+  - first:
+      213: 3189900088862668352
+    second: CargandoIconoAnimado_11
+  - first:
+      213: 6111717494129912097
+    second: CargandoIconoAnimado_12
+  - first:
+      213: -1373539857447184581
+    second: CargandoIconoAnimado_13
+  - first:
+      213: 151517526849214518
+    second: CargandoIconoAnimado_14
+  - first:
+      213: 1515610320025988111
+    second: CargandoIconoAnimado_15
+  - first:
+      213: -3011984279875878948
+    second: CargandoIconoAnimado_16
+  - first:
+      213: 4033251979581229969
+    second: CargandoIconoAnimado_17
+  - first:
+      213: 2540213558860503515
+    second: CargandoIconoAnimado_18
+  - first:
+      213: -8260213395336676404
+    second: CargandoIconoAnimado_19
+  - first:
+      213: -7509225464574550552
+    second: CargandoIconoAnimado_20
+  - first:
+      213: 4381833320923669970
+    second: CargandoIconoAnimado_21
+  - first:
+      213: -2141056104321005819
+    second: CargandoIconoAnimado_22
+  - first:
+      213: 244650284166653447
+    second: CargandoIconoAnimado_23
+  - first:
+      213: 5941146511992612212
+    second: CargandoIconoAnimado_24
+  - first:
+      213: 5699692856023308992
+    second: CargandoIconoAnimado_25
+  - first:
+      213: -648380663706895105
+    second: CargandoIconoAnimado_26
+  - first:
+      213: -1290446847868619736
+    second: CargandoIconoAnimado_27
+  - first:
+      213: -7167368343872030074
+    second: CargandoIconoAnimado_28
+  - first:
+      213: -1067592944399731539
+    second: CargandoIconoAnimado_29
+  - first:
+      213: -9113747544596613152
+    second: CargandoIconoAnimado_30
+  - first:
+      213: -8682269298297111299
+    second: CargandoIconoAnimado_31
+  - first:
+      213: -6591448678362987892
+    second: CargandoIconoAnimado_32
+  - first:
+      213: 1077435121386862439
+    second: CargandoIconoAnimado_33
+  - first:
+      213: -6713264128148704090
+    second: CargandoIconoAnimado_34
+  - first:
+      213: -2279114303401151796
+    second: CargandoIconoAnimado_35
+  - first:
+      213: -2742562758288101796
+    second: CargandoIconoAnimado_36
+  - first:
+      213: 4061693170599654056
+    second: CargandoIconoAnimado_37
+  - first:
+      213: 3558427931792910396
+    second: CargandoIconoAnimado_38
+  - first:
+      213: 4945001595871449698
+    second: CargandoIconoAnimado_39
+  - first:
+      213: 668338825454751022
+    second: CargandoIconoAnimado_40
+  - first:
+      213: -6442842598179075672
+    second: CargandoIconoAnimado_41
+  - first:
+      213: 5589389494144422318
+    second: CargandoIconoAnimado_42
+  - first:
+      213: -7694326449142405975
+    second: CargandoIconoAnimado_43
+  - first:
+      213: -5042735522834345392
+    second: CargandoIconoAnimado_44
+  - first:
+      213: 9142916902540247736
+    second: CargandoIconoAnimado_45
+  - first:
+      213: -6401256256597690816
+    second: CargandoIconoAnimado_46
+  - first:
+      213: 4310051874329802938
+    second: CargandoIconoAnimado_47
+  - first:
+      213: -3211990326681496651
+    second: CargandoIconoAnimado_48
+  - first:
+      213: -1475257988179601070
+    second: CargandoIconoAnimado_49
+  - first:
+      213: -609467167983922946
+    second: CargandoIconoAnimado_50
+  - first:
+      213: 411005227417510024
+    second: CargandoIconoAnimado_51
+  - first:
+      213: 6412130561605069405
+    second: CargandoIconoAnimado_52
+  - first:
+      213: 432068327064297366
+    second: CargandoIconoAnimado_53
+  - first:
+      213: -3567816539936472107
+    second: CargandoIconoAnimado_54
+  - first:
+      213: -8774635133170512362
+    second: CargandoIconoAnimado_55
+  - first:
+      213: -2416977016949975588
+    second: CargandoIconoAnimado_56
+  - first:
+      213: -3405243223734343259
+    second: CargandoIconoAnimado_57
+  - first:
+      213: 6311508056627715016
+    second: CargandoIconoAnimado_58
+  - first:
+      213: -4778428651440754902
+    second: CargandoIconoAnimado_59
+  - first:
+      213: -7352438374395358939
+    second: CargandoIconoAnimado_60
+  - first:
+      213: 6313884390495131906
+    second: CargandoIconoAnimado_61
+  - first:
+      213: -5223087677573126263
+    second: CargandoIconoAnimado_62
+  - first:
+      213: 165799657979129642
+    second: CargandoIconoAnimado_63
+  - first:
+      213: -2332020447868304062
+    second: CargandoIconoAnimado_64
+  - first:
+      213: 6408419773058897428
+    second: CargandoIconoAnimado_65
+  - first:
+      213: 7454076372921909711
+    second: CargandoIconoAnimado_66
+  - first:
+      213: -1816975616481658987
+    second: CargandoIconoAnimado_67
+  - first:
+      213: 5609884550204489018
+    second: CargandoIconoAnimado_68
+  - first:
+      213: -6715376741834356104
+    second: CargandoIconoAnimado_69
+  - first:
+      213: 8819888308620607770
+    second: CargandoIconoAnimado_70
+  - first:
+      213: -8820245904099000599
+    second: CargandoIconoAnimado_71
+  - first:
+      213: -5777359604228808960
+    second: CargandoIconoAnimado_72
+  - first:
+      213: 4609993910354519761
+    second: CargandoIconoAnimado_73
+  - first:
+      213: -2527502411552336627
+    second: CargandoIconoAnimado_74
+  - first:
+      213: -203495802168068924
+    second: CargandoIconoAnimado_75
+  - first:
+      213: -3860945545494728839
+    second: CargandoIconoAnimado_76
+  - first:
+      213: -5786644102401331567
+    second: CargandoIconoAnimado_77
+  - first:
+      213: -3010479443772094404
+    second: CargandoIconoAnimado_78
+  - first:
+      213: 6500323849968542771
+    second: CargandoIconoAnimado_79
+  - first:
+      213: -6800265657269918635
+    second: CargandoIconoAnimado_80
+  - first:
+      213: 5099075991374524290
+    second: CargandoIconoAnimado_81
+  - first:
+      213: 994016223380754597
+    second: CargandoIconoAnimado_82
+  - first:
+      213: -3644592581615016114
+    second: CargandoIconoAnimado_83
+  - first:
+      213: -228055313649208305
+    second: CargandoIconoAnimado_84
+  - first:
+      213: -7750948788474031427
+    second: CargandoIconoAnimado_85
+  - first:
+      213: 7357089573934722719
+    second: CargandoIconoAnimado_86
+  - first:
+      213: 469284994294186595
+    second: CargandoIconoAnimado_87
+  - first:
+      213: 283589632135527274
+    second: CargandoIconoAnimado_88
+  - first:
+      213: 468342416230061822
+    second: CargandoIconoAnimado_89
+  - first:
+      213: 7998086136648060839
+    second: CargandoIconoAnimado_90
+  - first:
+      213: 8448619243984565874
+    second: CargandoIconoAnimado_91
+  - first:
+      213: -5283798506350054455
+    second: CargandoIconoAnimado_92
+  - first:
+      213: -8648169711077748015
+    second: CargandoIconoAnimado_93
+  - first:
+      213: -6617892487495307388
+    second: CargandoIconoAnimado_94
+  - first:
+      213: -6761344371635816870
+    second: CargandoIconoAnimado_95
+  - first:
+      213: -4709426830084765724
+    second: CargandoIconoAnimado_96
+  - first:
+      213: -191229154470368888
+    second: CargandoIconoAnimado_97
+  - first:
+      213: 1614837939700947621
+    second: CargandoIconoAnimado_98
+  - first:
+      213: 668024444615463576
+    second: CargandoIconoAnimado_99
+  - first:
+      213: 3531622346266654492
+    second: CargandoIconoAnimado_100
+  - first:
+      213: 8897753103605007771
+    second: CargandoIconoAnimado_101
+  - first:
+      213: 2676697768185016564
+    second: CargandoIconoAnimado_102
+  - first:
+      213: 6166971742595278525
+    second: CargandoIconoAnimado_103
+  - first:
+      213: 3554419225852198091
+    second: CargandoIconoAnimado_104
+  - first:
+      213: -4924465984300799757
+    second: CargandoIconoAnimado_105
+  - first:
+      213: -1137081778621074428
+    second: CargandoIconoAnimado_106
+  - first:
+      213: 6001536381546452974
+    second: CargandoIconoAnimado_107
+  - first:
+      213: 8240645778056093145
+    second: CargandoIconoAnimado_108
+  - first:
+      213: 1320298386968825158
+    second: CargandoIconoAnimado_109
+  - first:
+      213: -5886839775533815820
+    second: CargandoIconoAnimado_110
+  - first:
+      213: 8951472348289370362
+    second: CargandoIconoAnimado_111
+  - first:
+      213: -2628319834619754305
+    second: CargandoIconoAnimado_112
+  - first:
+      213: -2600567073862865337
+    second: CargandoIconoAnimado_113
+  - first:
+      213: -2364179359337380436
+    second: CargandoIconoAnimado_114
+  - first:
+      213: 3215669686408407658
+    second: CargandoIconoAnimado_115
+  - first:
+      213: -8450551635036312248
+    second: CargandoIconoAnimado_116
+  - first:
+      213: 1770919003549514244
+    second: CargandoIconoAnimado_117
+  - first:
+      213: 520173256137253039
+    second: CargandoIconoAnimado_118
+  - first:
+      213: 4779386658732304092
+    second: CargandoIconoAnimado_119
+  - first:
+      213: 6242814719008628347
+    second: CargandoIconoAnimado_120
+  - first:
+      213: -8178474386169210992
+    second: CargandoIconoAnimado_121
+  - first:
+      213: -6064892096375229212
+    second: CargandoIconoAnimado_122
+  - first:
+      213: -5361781861622741793
+    second: CargandoIconoAnimado_123
+  - first:
+      213: 7996415183800414375
+    second: CargandoIconoAnimado_124
+  - first:
+      213: 3035277642188721260
+    second: CargandoIconoAnimado_125
+  - first:
+      213: -5985551798565906090
+    second: CargandoIconoAnimado_126
+  - first:
+      213: 677283998434145779
+    second: CargandoIconoAnimado_127
+  - first:
+      213: -7703751418741178823
+    second: CargandoIconoAnimado_128
+  - first:
+      213: 8662200828306255011
+    second: CargandoIconoAnimado_129
+  - first:
+      213: 5443276571389070062
+    second: CargandoIconoAnimado_130
+  - first:
+      213: -5677274527465774764
+    second: CargandoIconoAnimado_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2400c4faa289d9e48903f88b94540111
+      internalID: -890945471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c003dce745d0b504da79941f2d86e867
+      internalID: 826281107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dbe7428e2706742b5019aea3fdb8c3
+      internalID: -2123455656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_3
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba760b305172bd4f9c149b8c400fa08
+      internalID: 536111476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_4
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5292b25fb87fea746b2dc62e20cc6a8f
+      internalID: -1514621114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_5
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277987baa50b1dd4b80251b42c215297
+      internalID: 1438612317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d264569047675d94491263ebcc5eb5d7
+      internalID: 740012133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_7
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbf5c8b4a31b5d4281fb7234418d108
+      internalID: 848730775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_8
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1f01c84224704d8804e663e29e263
+      internalID: -1405238852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_9
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dcebe6f054bcb4390bee04b01cac07
+      internalID: -1576048366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_10
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609ca4d458b538449392958a38cdb33
+      internalID: 170263409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado 1_11
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 0
+        width: 302
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96259b8d3cb521f4ba410839d5bcf48b
+      internalID: -1784883476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ebb17c3a76d07d4aa1893497f4b3871
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":12.0,"y":1.0},"gridSpriteSize":{"x":302.0,"y":312.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      CargandoIconoAnimado 1_0: -890945471
+      CargandoIconoAnimado 1_1: 826281107
+      CargandoIconoAnimado 1_10: 170263409
+      CargandoIconoAnimado 1_11: -1784883476
+      CargandoIconoAnimado 1_2: -2123455656
+      CargandoIconoAnimado 1_3: 536111476
+      CargandoIconoAnimado 1_4: -1514621114
+      CargandoIconoAnimado 1_5: 1438612317
+      CargandoIconoAnimado 1_6: 740012133
+      CargandoIconoAnimado 1_7: 848730775
+      CargandoIconoAnimado 1_8: -1405238852
+      CargandoIconoAnimado 1_9: -1576048366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3562 @@
+fileFormatVersion: 2
+guid: 1ebd630fd19e0df4db83328262cba539
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 606777933930187581
+    second: CargandoIconoAnimado_0
+  - first:
+      213: 5283685362912448483
+    second: CargandoIconoAnimado_1
+  - first:
+      213: 8079687183560619249
+    second: CargandoIconoAnimado_2
+  - first:
+      213: 6448230399512793662
+    second: CargandoIconoAnimado_3
+  - first:
+      213: 3617254078182041993
+    second: CargandoIconoAnimado_4
+  - first:
+      213: -4371388093161893655
+    second: CargandoIconoAnimado_5
+  - first:
+      213: 8490574753305743277
+    second: CargandoIconoAnimado_6
+  - first:
+      213: 1992754135818980450
+    second: CargandoIconoAnimado_7
+  - first:
+      213: -5023974661294433831
+    second: CargandoIconoAnimado_8
+  - first:
+      213: -6750415050294785451
+    second: CargandoIconoAnimado_9
+  - first:
+      213: -5989127415150651298
+    second: CargandoIconoAnimado_10
+  - first:
+      213: 3189900088862668352
+    second: CargandoIconoAnimado_11
+  - first:
+      213: 6111717494129912097
+    second: CargandoIconoAnimado_12
+  - first:
+      213: -1373539857447184581
+    second: CargandoIconoAnimado_13
+  - first:
+      213: 151517526849214518
+    second: CargandoIconoAnimado_14
+  - first:
+      213: 1515610320025988111
+    second: CargandoIconoAnimado_15
+  - first:
+      213: -3011984279875878948
+    second: CargandoIconoAnimado_16
+  - first:
+      213: 4033251979581229969
+    second: CargandoIconoAnimado_17
+  - first:
+      213: 2540213558860503515
+    second: CargandoIconoAnimado_18
+  - first:
+      213: -8260213395336676404
+    second: CargandoIconoAnimado_19
+  - first:
+      213: -7509225464574550552
+    second: CargandoIconoAnimado_20
+  - first:
+      213: 4381833320923669970
+    second: CargandoIconoAnimado_21
+  - first:
+      213: -2141056104321005819
+    second: CargandoIconoAnimado_22
+  - first:
+      213: 244650284166653447
+    second: CargandoIconoAnimado_23
+  - first:
+      213: 5941146511992612212
+    second: CargandoIconoAnimado_24
+  - first:
+      213: 5699692856023308992
+    second: CargandoIconoAnimado_25
+  - first:
+      213: -648380663706895105
+    second: CargandoIconoAnimado_26
+  - first:
+      213: -1290446847868619736
+    second: CargandoIconoAnimado_27
+  - first:
+      213: -7167368343872030074
+    second: CargandoIconoAnimado_28
+  - first:
+      213: -1067592944399731539
+    second: CargandoIconoAnimado_29
+  - first:
+      213: -9113747544596613152
+    second: CargandoIconoAnimado_30
+  - first:
+      213: -8682269298297111299
+    second: CargandoIconoAnimado_31
+  - first:
+      213: -6591448678362987892
+    second: CargandoIconoAnimado_32
+  - first:
+      213: 1077435121386862439
+    second: CargandoIconoAnimado_33
+  - first:
+      213: -6713264128148704090
+    second: CargandoIconoAnimado_34
+  - first:
+      213: -2279114303401151796
+    second: CargandoIconoAnimado_35
+  - first:
+      213: -2742562758288101796
+    second: CargandoIconoAnimado_36
+  - first:
+      213: 4061693170599654056
+    second: CargandoIconoAnimado_37
+  - first:
+      213: 3558427931792910396
+    second: CargandoIconoAnimado_38
+  - first:
+      213: 4945001595871449698
+    second: CargandoIconoAnimado_39
+  - first:
+      213: 668338825454751022
+    second: CargandoIconoAnimado_40
+  - first:
+      213: -6442842598179075672
+    second: CargandoIconoAnimado_41
+  - first:
+      213: 5589389494144422318
+    second: CargandoIconoAnimado_42
+  - first:
+      213: -7694326449142405975
+    second: CargandoIconoAnimado_43
+  - first:
+      213: -5042735522834345392
+    second: CargandoIconoAnimado_44
+  - first:
+      213: 9142916902540247736
+    second: CargandoIconoAnimado_45
+  - first:
+      213: -6401256256597690816
+    second: CargandoIconoAnimado_46
+  - first:
+      213: 4310051874329802938
+    second: CargandoIconoAnimado_47
+  - first:
+      213: -3211990326681496651
+    second: CargandoIconoAnimado_48
+  - first:
+      213: -1475257988179601070
+    second: CargandoIconoAnimado_49
+  - first:
+      213: -609467167983922946
+    second: CargandoIconoAnimado_50
+  - first:
+      213: 411005227417510024
+    second: CargandoIconoAnimado_51
+  - first:
+      213: 6412130561605069405
+    second: CargandoIconoAnimado_52
+  - first:
+      213: 432068327064297366
+    second: CargandoIconoAnimado_53
+  - first:
+      213: -3567816539936472107
+    second: CargandoIconoAnimado_54
+  - first:
+      213: -8774635133170512362
+    second: CargandoIconoAnimado_55
+  - first:
+      213: -2416977016949975588
+    second: CargandoIconoAnimado_56
+  - first:
+      213: -3405243223734343259
+    second: CargandoIconoAnimado_57
+  - first:
+      213: 6311508056627715016
+    second: CargandoIconoAnimado_58
+  - first:
+      213: -4778428651440754902
+    second: CargandoIconoAnimado_59
+  - first:
+      213: -7352438374395358939
+    second: CargandoIconoAnimado_60
+  - first:
+      213: 6313884390495131906
+    second: CargandoIconoAnimado_61
+  - first:
+      213: -5223087677573126263
+    second: CargandoIconoAnimado_62
+  - first:
+      213: 165799657979129642
+    second: CargandoIconoAnimado_63
+  - first:
+      213: -2332020447868304062
+    second: CargandoIconoAnimado_64
+  - first:
+      213: 6408419773058897428
+    second: CargandoIconoAnimado_65
+  - first:
+      213: 7454076372921909711
+    second: CargandoIconoAnimado_66
+  - first:
+      213: -1816975616481658987
+    second: CargandoIconoAnimado_67
+  - first:
+      213: 5609884550204489018
+    second: CargandoIconoAnimado_68
+  - first:
+      213: -6715376741834356104
+    second: CargandoIconoAnimado_69
+  - first:
+      213: 8819888308620607770
+    second: CargandoIconoAnimado_70
+  - first:
+      213: -8820245904099000599
+    second: CargandoIconoAnimado_71
+  - first:
+      213: -5777359604228808960
+    second: CargandoIconoAnimado_72
+  - first:
+      213: 4609993910354519761
+    second: CargandoIconoAnimado_73
+  - first:
+      213: -2527502411552336627
+    second: CargandoIconoAnimado_74
+  - first:
+      213: -203495802168068924
+    second: CargandoIconoAnimado_75
+  - first:
+      213: -3860945545494728839
+    second: CargandoIconoAnimado_76
+  - first:
+      213: -5786644102401331567
+    second: CargandoIconoAnimado_77
+  - first:
+      213: -3010479443772094404
+    second: CargandoIconoAnimado_78
+  - first:
+      213: 6500323849968542771
+    second: CargandoIconoAnimado_79
+  - first:
+      213: -6800265657269918635
+    second: CargandoIconoAnimado_80
+  - first:
+      213: 5099075991374524290
+    second: CargandoIconoAnimado_81
+  - first:
+      213: 994016223380754597
+    second: CargandoIconoAnimado_82
+  - first:
+      213: -3644592581615016114
+    second: CargandoIconoAnimado_83
+  - first:
+      213: -228055313649208305
+    second: CargandoIconoAnimado_84
+  - first:
+      213: -7750948788474031427
+    second: CargandoIconoAnimado_85
+  - first:
+      213: 7357089573934722719
+    second: CargandoIconoAnimado_86
+  - first:
+      213: 469284994294186595
+    second: CargandoIconoAnimado_87
+  - first:
+      213: 283589632135527274
+    second: CargandoIconoAnimado_88
+  - first:
+      213: 468342416230061822
+    second: CargandoIconoAnimado_89
+  - first:
+      213: 7998086136648060839
+    second: CargandoIconoAnimado_90
+  - first:
+      213: 8448619243984565874
+    second: CargandoIconoAnimado_91
+  - first:
+      213: -5283798506350054455
+    second: CargandoIconoAnimado_92
+  - first:
+      213: -8648169711077748015
+    second: CargandoIconoAnimado_93
+  - first:
+      213: -6617892487495307388
+    second: CargandoIconoAnimado_94
+  - first:
+      213: -6761344371635816870
+    second: CargandoIconoAnimado_95
+  - first:
+      213: -4709426830084765724
+    second: CargandoIconoAnimado_96
+  - first:
+      213: -191229154470368888
+    second: CargandoIconoAnimado_97
+  - first:
+      213: 1614837939700947621
+    second: CargandoIconoAnimado_98
+  - first:
+      213: 668024444615463576
+    second: CargandoIconoAnimado_99
+  - first:
+      213: 3531622346266654492
+    second: CargandoIconoAnimado_100
+  - first:
+      213: 8897753103605007771
+    second: CargandoIconoAnimado_101
+  - first:
+      213: 2676697768185016564
+    second: CargandoIconoAnimado_102
+  - first:
+      213: 6166971742595278525
+    second: CargandoIconoAnimado_103
+  - first:
+      213: 3554419225852198091
+    second: CargandoIconoAnimado_104
+  - first:
+      213: -4924465984300799757
+    second: CargandoIconoAnimado_105
+  - first:
+      213: -1137081778621074428
+    second: CargandoIconoAnimado_106
+  - first:
+      213: 6001536381546452974
+    second: CargandoIconoAnimado_107
+  - first:
+      213: 8240645778056093145
+    second: CargandoIconoAnimado_108
+  - first:
+      213: 1320298386968825158
+    second: CargandoIconoAnimado_109
+  - first:
+      213: -5886839775533815820
+    second: CargandoIconoAnimado_110
+  - first:
+      213: 8951472348289370362
+    second: CargandoIconoAnimado_111
+  - first:
+      213: -2628319834619754305
+    second: CargandoIconoAnimado_112
+  - first:
+      213: -2600567073862865337
+    second: CargandoIconoAnimado_113
+  - first:
+      213: -2364179359337380436
+    second: CargandoIconoAnimado_114
+  - first:
+      213: 3215669686408407658
+    second: CargandoIconoAnimado_115
+  - first:
+      213: -8450551635036312248
+    second: CargandoIconoAnimado_116
+  - first:
+      213: 1770919003549514244
+    second: CargandoIconoAnimado_117
+  - first:
+      213: 520173256137253039
+    second: CargandoIconoAnimado_118
+  - first:
+      213: 4779386658732304092
+    second: CargandoIconoAnimado_119
+  - first:
+      213: 6242814719008628347
+    second: CargandoIconoAnimado_120
+  - first:
+      213: -8178474386169210992
+    second: CargandoIconoAnimado_121
+  - first:
+      213: -6064892096375229212
+    second: CargandoIconoAnimado_122
+  - first:
+      213: -5361781861622741793
+    second: CargandoIconoAnimado_123
+  - first:
+      213: 7996415183800414375
+    second: CargandoIconoAnimado_124
+  - first:
+      213: 3035277642188721260
+    second: CargandoIconoAnimado_125
+  - first:
+      213: -5985551798565906090
+    second: CargandoIconoAnimado_126
+  - first:
+      213: 677283998434145779
+    second: CargandoIconoAnimado_127
+  - first:
+      213: -7703751418741178823
+    second: CargandoIconoAnimado_128
+  - first:
+      213: 8662200828306255011
+    second: CargandoIconoAnimado_129
+  - first:
+      213: 5443276571389070062
+    second: CargandoIconoAnimado_130
+  - first:
+      213: -5677274527465774764
+    second: CargandoIconoAnimado_131
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 73
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b4479e055bb6800800000000000000
+      internalID: 606777933930187581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 80
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc359e7db635940800000000000000
+      internalID: 5283685362912448483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f438687fa0d02070800000000000000
+      internalID: 8079687183560619249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_3
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 73
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d5d85267bc7950800000000000000
+      internalID: 6448230399512793662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_4
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 73
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989af584b61133230800000000000000
+      internalID: 3617254078182041993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_5
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 80
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e096bb90b5b553c0800000000000000
+      internalID: -4371388093161893655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_6
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf40bdc0c494d570800000000000000
+      internalID: 8490574753305743277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_7
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 80
+        width: 240
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4e26145fa7ab10800000000000000
+      internalID: 1992754135818980450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_8
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d95bf8e9a1474ab0800000000000000
+      internalID: -5023974661294433831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_9
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 73
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a8ab8e645b152a0800000000000000
+      internalID: -6750415050294785451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_10
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 80
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e585461095852eca0800000000000000
+      internalID: -5989127415150651298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_11
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04675a1ea3dc44c20800000000000000
+      internalID: 3189900088862668352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_12
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 73
+        width: 226
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129672dfdae21d450800000000000000
+      internalID: 6111717494129912097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_13
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 73
+        width: 240
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b371508e6c430fce0800000000000000
+      internalID: -1373539857447184581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_14
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 80
+        width: 226
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d71d436c4a1200800000000000000
+      internalID: 151517526849214518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_15
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca0175e87880510800000000000000
+      internalID: 1515610320025988111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_16
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 80
+        width: 240
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfffe071484336d0800000000000000
+      internalID: -3011984279875878948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_17
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 304
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b849c6e4df8f730800000000000000
+      internalID: 4033251979581229969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9d28de5c6a04320800000000000000
+      internalID: 2540213558860503515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_19
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbb8027ea3dd5d80800000000000000
+      internalID: -8260213395336676404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed57bdb93fd9c790800000000000000
+      internalID: -7509225464574550552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_21
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d520ae70366fcc30800000000000000
+      internalID: 4381833320923669970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_22
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507c3c121d07942e0800000000000000
+      internalID: -2141056104321005819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_23
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706a3f1232c256300800000000000000
+      internalID: 244650284166653447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475eedd6641337250800000000000000
+      internalID: 5941146511992612212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_25
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad91c4470691f40800000000000000
+      internalID: 5699692856023308992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_26
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb48cb83d7007f0800000000000000
+      internalID: -648380663706895105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_27
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824b44fcd69671ee0800000000000000
+      internalID: -1290446847868619736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_28
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ab0213774688c90800000000000000
+      internalID: -7167368343872030074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_29
+      rect:
+        serializedVersion: 2
+        x: 3282
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da437589fd52f21f0800000000000000
+      internalID: -1067592944399731539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7fab715e6758180800000000000000
+      internalID: -9113747544596613152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_31
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc78b6e212628780800000000000000
+      internalID: -8682269298297111299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_32
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82c4fa99587684a0800000000000000
+      internalID: -6591448678362987892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_33
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673bcec881d3fe00800000000000000
+      internalID: 1077435121386862439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_34
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4f25608d1b5d2a0800000000000000
+      internalID: -6713264128148704090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_35
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 73
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc23347cd95fe50e0800000000000000
+      internalID: -2279114303401151796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ea50ab3b570f9d0800000000000000
+      internalID: -2742562758288101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f83c3b680e5830800000000000000
+      internalID: 4061693170599654056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382851c953126130800000000000000
+      internalID: 3558427931792910396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_39
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26258af60cc20a440800000000000000
+      internalID: 4945001595871449698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_40
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d05d8ee9a664900800000000000000
+      internalID: 668338825454751022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a908c7eacc6696a0800000000000000
+      internalID: -6442842598179075672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_42
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea157cd8120819d40800000000000000
+      internalID: 5589389494144422318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_43
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a469fc5cd2483590800000000000000
+      internalID: -7694326449142405975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_44
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052173172ca940ab0800000000000000
+      internalID: -5042735522834345392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_45
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b283da4b7a22ee70800000000000000
+      internalID: 9142916902540247736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_46
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0467f35995b2a27a0800000000000000
+      internalID: -6401256256597690816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab83fe4185160db30800000000000000
+      internalID: 4310051874329802938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_48
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b39824d0d7bc63d0800000000000000
+      internalID: -3211990326681496651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_49
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2595f7e0da4d68be0800000000000000
+      internalID: -1475257988179601070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_50
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef01e0ef6dcba87f0800000000000000
+      internalID: -609467167983922946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_51
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880ac05a31f24b500800000000000000
+      internalID: 411005227417510024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_52
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a65e9d5c67cf850800000000000000
+      internalID: 6412130561605069405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_53
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f5d51bad30ff500800000000000000
+      internalID: 432068327064297366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_54
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3c25192c19c7ec0800000000000000
+      internalID: -3567816539936472107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_55
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e85bd16db3a3680800000000000000
+      internalID: -8774635133170512362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_56
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d962753c257ed0800000000000000
+      internalID: -2416977016949975588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_57
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9228b64552eb0d0800000000000000
+      internalID: -3405243223734343259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_58
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb9f40432bf69750800000000000000
+      internalID: 6311508056627715016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_59
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f235e657c9fadb0800000000000000
+      internalID: -4778428651440754902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_60
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521d63dd044e6f990800000000000000
+      internalID: -7352438374395358939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_61
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099858966c6f9750800000000000000
+      internalID: 6313884390495131906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_62
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987a88b2e6dd387b0800000000000000
+      internalID: -5223087677573126263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_63
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2f2ab519e90d4200800000000000000
+      internalID: 165799657979129642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_64
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245ccdb12cff2afd0800000000000000
+      internalID: -2332020447868304062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_65
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416d3c094d74fe850800000000000000
+      internalID: 6408419773058897428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_66
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc184a0c7f2327760800000000000000
+      internalID: 7454076372921909711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_67
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5977016bd4ec8c6e0800000000000000
+      internalID: -1816975616481658987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_68
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df3e5a6405add40800000000000000
+      internalID: 5609884550204489018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_69
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0b02de603ec2a0800000000000000
+      internalID: -6715376741834356104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_70
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a11c3f9dfa9866a70800000000000000
+      internalID: 8819888308620607770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_71
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeb596f411389580800000000000000
+      internalID: -8820245904099000599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_72
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f104abc02b2dfa0800000000000000
+      internalID: -5777359604228808960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_73
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62563690df9ff30800000000000000
+      internalID: 4609993910354519761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_74
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05da7ea2f18cecd0800000000000000
+      internalID: -2527502411552336627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_75
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c43d7665a90d2df0800000000000000
+      internalID: -203495802168068924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_76
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fe8a78b7a2b6ac0800000000000000
+      internalID: -3860945545494728839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_77
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e62ca09d5b1bfa0800000000000000
+      internalID: -5786644102401331567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_78
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38495665e0a836d0800000000000000
+      internalID: -3010479443772094404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_79
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334ef52f91ac53a50800000000000000
+      internalID: 6500323849968542771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_80
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55463200a6a90a1a0800000000000000
+      internalID: -6800265657269918635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_81
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fe99c199e83c640800000000000000
+      internalID: 5099075991374524290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_82
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0d5971d747bcd00800000000000000
+      internalID: 994016223380754597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_83
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4720dd5b5ecb6dc0800000000000000
+      internalID: -3644592581615016114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_84
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f047cc886e8c5dcf0800000000000000
+      internalID: -228055313649208305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_85
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d2c6a4291f6490800000000000000
+      internalID: -7750948788474031427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_86
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eeb1becf1a91660800000000000000
+      internalID: 7357089573934722719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_87
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3628357473c338600800000000000000
+      internalID: 469284994294186595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_88
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bfb6594438fe300800000000000000
+      internalID: 283589632135527274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_89
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef614a832f2ef7600800000000000000
+      internalID: 468342416230061822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_90
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af42e137f8eefe60800000000000000
+      internalID: 7998086136648060839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_91
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ba3090768f3570800000000000000
+      internalID: 8448619243984565874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_92
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f344d04d2ca6b0800000000000000
+      internalID: -5283798506350054455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_93
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d21bedb7778bf780800000000000000
+      internalID: -8648169711077748015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_94
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fad1188d58824a0800000000000000
+      internalID: -6617892487495307388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_95
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a567f8cfd11ea22a0800000000000000
+      internalID: -6761344371635816870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_96
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e78a19ef31c4aeb0800000000000000
+      internalID: -4709426830084765724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_97
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8896811e81e985df0800000000000000
+      internalID: -191229154470368888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_98
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aad2b5ec8e096610800000000000000
+      internalID: 1614837939700947621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_99
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892159a61bc454900800000000000000
+      internalID: 668024444615463576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_100
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c173e0600d7d20130800000000000000
+      internalID: 3531622346266654492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_101
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95818f2e4b2b7b70800000000000000
+      internalID: 8897753103605007771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_102
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0bfbb307a852520800000000000000
+      internalID: 2676697768185016564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_103
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66349302c759550800000000000000
+      internalID: 6166971742595278525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_104
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3dbb2475d35130800000000000000
+      internalID: 3554419225852198091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_105
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8a1493748c8abb0800000000000000
+      internalID: -4924465984300799757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_106
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404b8b895264830f0800000000000000
+      internalID: -1137081778621074428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_107
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d8a0aa8db94350800000000000000
+      internalID: 6001536381546452974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_108
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd1bd0aca7ac5270800000000000000
+      internalID: 8240645778056093145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_109
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d4cc04364a25210800000000000000
+      internalID: 1320298386968825158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_110
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7aaa9f96ebd4ea0800000000000000
+      internalID: -5886839775533815820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_111
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af805808ca40a3c70800000000000000
+      internalID: 8951472348289370362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_112
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8406d2905568bd0800000000000000
+      internalID: -2628319834619754305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_113
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ea3d3560ee8ebd0800000000000000
+      internalID: -2600567073862865337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_114
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5826d066fb03fd0800000000000000
+      internalID: -2364179359337380436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_115
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a6d5dda8a50ac20800000000000000
+      internalID: 3215669686408407658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_116
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d60959f0c99ba80800000000000000
+      internalID: -8450551635036312248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_117
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abe847371939810800000000000000
+      internalID: 1770919003549514244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_118
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa028b902d6083700800000000000000
+      internalID: 520173256137253039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_119
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6eaf508dac35240800000000000000
+      internalID: 4779386658732304092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_120
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ed61d39eee2a650800000000000000
+      internalID: 6242814719008628347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_121
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097d0cf80e8308e80800000000000000
+      internalID: -8178474386169210992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_122
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4fa7285cc25dba0800000000000000
+      internalID: -6064892096375229212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_123
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd408d60ecf1795b0800000000000000
+      internalID: -5361781861622741793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_124
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0b6fa2e39f8fe60800000000000000
+      internalID: 7996415183800414375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_125
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c08591fe87f1a20800000000000000
+      internalID: 3035277642188721260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_126
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65957cd1a5c0feca0800000000000000
+      internalID: -5985551798565906090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_127
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f539ba4532366900800000000000000
+      internalID: 677283998434145779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_128
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e3500a6e6c61590800000000000000
+      internalID: -7703751418741178823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_129
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ace94052c1563870800000000000000
+      internalID: 8662200828306255011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_130
+      rect:
+        serializedVersion: 2
+        x: 3547
+        y: 13
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0ad3b3376a8b40800000000000000
+      internalID: 5443276571389070062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CargandoIconoAnimado_131
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 13
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451670295e44631b0800000000000000
+      internalID: -5677274527465774764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CargandoIconoAnimado_0: 606777933930187581
+      CargandoIconoAnimado_1: 5283685362912448483
+      CargandoIconoAnimado_10: -5989127415150651298
+      CargandoIconoAnimado_100: 3531622346266654492
+      CargandoIconoAnimado_101: 8897753103605007771
+      CargandoIconoAnimado_102: 2676697768185016564
+      CargandoIconoAnimado_103: 6166971742595278525
+      CargandoIconoAnimado_104: 3554419225852198091
+      CargandoIconoAnimado_105: -4924465984300799757
+      CargandoIconoAnimado_106: -1137081778621074428
+      CargandoIconoAnimado_107: 6001536381546452974
+      CargandoIconoAnimado_108: 8240645778056093145
+      CargandoIconoAnimado_109: 1320298386968825158
+      CargandoIconoAnimado_11: 3189900088862668352
+      CargandoIconoAnimado_110: -5886839775533815820
+      CargandoIconoAnimado_111: 8951472348289370362
+      CargandoIconoAnimado_112: -2628319834619754305
+      CargandoIconoAnimado_113: -2600567073862865337
+      CargandoIconoAnimado_114: -2364179359337380436
+      CargandoIconoAnimado_115: 3215669686408407658
+      CargandoIconoAnimado_116: -8450551635036312248
+      CargandoIconoAnimado_117: 1770919003549514244
+      CargandoIconoAnimado_118: 520173256137253039
+      CargandoIconoAnimado_119: 4779386658732304092
+      CargandoIconoAnimado_12: 6111717494129912097
+      CargandoIconoAnimado_120: 6242814719008628347
+      CargandoIconoAnimado_121: -8178474386169210992
+      CargandoIconoAnimado_122: -6064892096375229212
+      CargandoIconoAnimado_123: -5361781861622741793
+      CargandoIconoAnimado_124: 7996415183800414375
+      CargandoIconoAnimado_125: 3035277642188721260
+      CargandoIconoAnimado_126: -5985551798565906090
+      CargandoIconoAnimado_127: 677283998434145779
+      CargandoIconoAnimado_128: -7703751418741178823
+      CargandoIconoAnimado_129: 8662200828306255011
+      CargandoIconoAnimado_13: -1373539857447184581
+      CargandoIconoAnimado_130: 5443276571389070062
+      CargandoIconoAnimado_131: -5677274527465774764
+      CargandoIconoAnimado_14: 151517526849214518
+      CargandoIconoAnimado_15: 1515610320025988111
+      CargandoIconoAnimado_16: -3011984279875878948
+      CargandoIconoAnimado_17: 4033251979581229969
+      CargandoIconoAnimado_18: 2540213558860503515
+      CargandoIconoAnimado_19: -8260213395336676404
+      CargandoIconoAnimado_2: 8079687183560619249
+      CargandoIconoAnimado_20: -7509225464574550552
+      CargandoIconoAnimado_21: 4381833320923669970
+      CargandoIconoAnimado_22: -2141056104321005819
+      CargandoIconoAnimado_23: 244650284166653447
+      CargandoIconoAnimado_24: 5941146511992612212
+      CargandoIconoAnimado_25: 5699692856023308992
+      CargandoIconoAnimado_26: -648380663706895105
+      CargandoIconoAnimado_27: -1290446847868619736
+      CargandoIconoAnimado_28: -7167368343872030074
+      CargandoIconoAnimado_29: -1067592944399731539
+      CargandoIconoAnimado_3: 6448230399512793662
+      CargandoIconoAnimado_30: -9113747544596613152
+      CargandoIconoAnimado_31: -8682269298297111299
+      CargandoIconoAnimado_32: -6591448678362987892
+      CargandoIconoAnimado_33: 1077435121386862439
+      CargandoIconoAnimado_34: -6713264128148704090
+      CargandoIconoAnimado_35: -2279114303401151796
+      CargandoIconoAnimado_36: -2742562758288101796
+      CargandoIconoAnimado_37: 4061693170599654056
+      CargandoIconoAnimado_38: 3558427931792910396
+      CargandoIconoAnimado_39: 4945001595871449698
+      CargandoIconoAnimado_4: 3617254078182041993
+      CargandoIconoAnimado_40: 668338825454751022
+      CargandoIconoAnimado_41: -6442842598179075672
+      CargandoIconoAnimado_42: 5589389494144422318
+      CargandoIconoAnimado_43: -7694326449142405975
+      CargandoIconoAnimado_44: -5042735522834345392
+      CargandoIconoAnimado_45: 9142916902540247736
+      CargandoIconoAnimado_46: -6401256256597690816
+      CargandoIconoAnimado_47: 4310051874329802938
+      CargandoIconoAnimado_48: -3211990326681496651
+      CargandoIconoAnimado_49: -1475257988179601070
+      CargandoIconoAnimado_5: -4371388093161893655
+      CargandoIconoAnimado_50: -609467167983922946
+      CargandoIconoAnimado_51: 411005227417510024
+      CargandoIconoAnimado_52: 6412130561605069405
+      CargandoIconoAnimado_53: 432068327064297366
+      CargandoIconoAnimado_54: -3567816539936472107
+      CargandoIconoAnimado_55: -8774635133170512362
+      CargandoIconoAnimado_56: -2416977016949975588
+      CargandoIconoAnimado_57: -3405243223734343259
+      CargandoIconoAnimado_58: 6311508056627715016
+      CargandoIconoAnimado_59: -4778428651440754902
+      CargandoIconoAnimado_6: 8490574753305743277
+      CargandoIconoAnimado_60: -7352438374395358939
+      CargandoIconoAnimado_61: 6313884390495131906
+      CargandoIconoAnimado_62: -5223087677573126263
+      CargandoIconoAnimado_63: 165799657979129642
+      CargandoIconoAnimado_64: -2332020447868304062
+      CargandoIconoAnimado_65: 6408419773058897428
+      CargandoIconoAnimado_66: 7454076372921909711
+      CargandoIconoAnimado_67: -1816975616481658987
+      CargandoIconoAnimado_68: 5609884550204489018
+      CargandoIconoAnimado_69: -6715376741834356104
+      CargandoIconoAnimado_7: 1992754135818980450
+      CargandoIconoAnimado_70: 8819888308620607770
+      CargandoIconoAnimado_71: -8820245904099000599
+      CargandoIconoAnimado_72: -5777359604228808960
+      CargandoIconoAnimado_73: 4609993910354519761
+      CargandoIconoAnimado_74: -2527502411552336627
+      CargandoIconoAnimado_75: -203495802168068924
+      CargandoIconoAnimado_76: -3860945545494728839
+      CargandoIconoAnimado_77: -5786644102401331567
+      CargandoIconoAnimado_78: -3010479443772094404
+      CargandoIconoAnimado_79: 6500323849968542771
+      CargandoIconoAnimado_8: -5023974661294433831
+      CargandoIconoAnimado_80: -6800265657269918635
+      CargandoIconoAnimado_81: 5099075991374524290
+      CargandoIconoAnimado_82: 994016223380754597
+      CargandoIconoAnimado_83: -3644592581615016114
+      CargandoIconoAnimado_84: -228055313649208305
+      CargandoIconoAnimado_85: -7750948788474031427
+      CargandoIconoAnimado_86: 7357089573934722719
+      CargandoIconoAnimado_87: 469284994294186595
+      CargandoIconoAnimado_88: 283589632135527274
+      CargandoIconoAnimado_89: 468342416230061822
+      CargandoIconoAnimado_9: -6750415050294785451
+      CargandoIconoAnimado_90: 7998086136648060839
+      CargandoIconoAnimado_91: 8448619243984565874
+      CargandoIconoAnimado_92: -5283798506350054455
+      CargandoIconoAnimado_93: -8648169711077748015
+      CargandoIconoAnimado_94: -6617892487495307388
+      CargandoIconoAnimado_95: -6761344371635816870
+      CargandoIconoAnimado_96: -4709426830084765724
+      CargandoIconoAnimado_97: -191229154470368888
+      CargandoIconoAnimado_98: 1614837939700947621
+      CargandoIconoAnimado_99: 668024444615463576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
