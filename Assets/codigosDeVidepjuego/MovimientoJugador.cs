@@ -2,79 +2,68 @@ using UnityEngine;
 
 public class MovimientoJugador : MonoBehaviour
 {
-    // Qué tan rápido se mueve el personaje hacia los lados.
-    // Puedes cambiar este número en el Inspector para ajustar la velocidad.
-    public float velocidad = 5f;
+    public float velocidad = 5f; // la velocidad del stickman, se puede cambiar desde el inspector
 
-    // Qué tan fuerte salta el personaje hacia arriba.
-    public float fuerzaSalto = 7f;
-
-    // Estas 2 variables guardan si el jugador está tocando
-    // el botón izquierda o derecha AHORA MISMO.
     private bool moviendoIzquierda = false;
     private bool moviendoDerecha = false;
 
-    // Aquí vamos a guardar una referencia al Rigidbody 2D
-    // del personaje (el componente que le da física/gravedad).
     private Rigidbody2D rb;
+    private Animator animator;
 
-    // Start() se ejecuta UNA sola vez, al arrancar la escena.
     void Start()
     {
-        // Buscamos el Rigidbody 2D que ya está puesto en este mismo
-        // GameObject (el personaje), y lo guardamos en "rb".
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
-    // Update() se ejecuta constantemente, muchas veces por segundo,
-    // mientras el juego está corriendo.
     void Update()
     {
-        // Si el botón izquierda está siendo presionado ahora...
+        // esto es para que no se resetee el tamaño del personaje cuando se voltea
+        float tamano = Mathf.Abs(transform.localScale.x);
+
         if (moviendoIzquierda)
         {
             rb.linearVelocity = new Vector2(-velocidad, rb.linearVelocity.y);
+            transform.localScale = new Vector3(-tamano, transform.localScale.y, transform.localScale.z); // voltea para la izquierda
         }
-        // Si no era izquierda, revisamos si es derecha...
         else if (moviendoDerecha)
         {
             rb.linearVelocity = new Vector2(velocidad, rb.linearVelocity.y);
+            transform.localScale = new Vector3(tamano, transform.localScale.y, transform.localScale.z); // vuelve a mirar a la derecha
         }
-        // Si no se está tocando ningún botón de movimiento...
         else
         {
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // quieto si no toco nada
         }
+
+        bool caminando = moviendoIzquierda || moviendoDerecha;
+        animator.SetBool("Caminando", caminando); // le aviso al animator si esta caminando o no
     }
 
-    // Se llama cuando el jugador PRESIONA el botón izquierda.
-    public void EmpezarAMoverIzquierda()
+    // metodos que llaman los botones de la pantalla
+
+    public void EmpezarIzquierda()
     {
         moviendoIzquierda = true;
     }
 
-    // Se llama cuando el jugador SUELTA el botón izquierda.
-    public void DejarDeMoverIzquierda()
+    public void TerminarIzquierda()
     {
         moviendoIzquierda = false;
     }
 
-    // Se llama cuando el jugador PRESIONA el botón derecha.
-    public void EmpezarAMoverDerecha()
+    public void EmpezarDerecha()
     {
         moviendoDerecha = true;
     }
 
-    // Se llama cuando el jugador SUELTA el botón derecha.
-    public void DejarDeMoverDerecha()
+    public void TerminarDerecha()
     {
         moviendoDerecha = false;
     }
 
-    // El salto es diferente a los otros: se ejecuta UNA sola vez
-    // apenas tocas el botón.
-    public void Saltar()
+    public void Atacar()
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, fuerzaSalto);
+        animator.SetTrigger("Atacar"); // activa la animacion de golpe
     }
 }

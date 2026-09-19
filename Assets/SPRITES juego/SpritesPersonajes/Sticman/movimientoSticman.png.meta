@@ -1,37 +1,40 @@
 fileFormatVersion: 2
-guid: cf097586232902748b566f1f67460695
+guid: 593f2162fb64ea3439be875e45e8d99d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -128733981132165133
-    second: Sprites animaciones_0
+      213: -760397065494257549
+    second: movimientoSticman_0
   - first:
-      213: 2967274226941051886
-    second: Sprites animaciones_1
+      213: 4126337208300568466
+    second: movimientoSticman_1
   - first:
-      213: -1994537534127891013
-    second: Sprites animaciones_2
+      213: 2779706536792716728
+    second: movimientoSticman_2
   - first:
-      213: -25676367260379701
-    second: Sprites animaciones_3
+      213: 5576241755873674389
+    second: movimientoSticman_3
   - first:
-      213: 2797476280780944602
-    second: Sprites animaciones_4
+      213: 8308399247149655245
+    second: movimientoSticman_4
   - first:
-      213: -4764513522593172009
-    second: Sprites animaciones_5
+      213: 1698985866264989464
+    second: movimientoSticman_5
   - first:
-      213: 2200995699359405131
-    second: Sprites animaciones_6
+      213: 374253411334556597
+    second: movimientoSticman_6
   - first:
-      213: 9208236664744456358
-    second: Sprites animaciones_7
+      213: 8952542012825335884
+    second: movimientoSticman_7
   - first:
-      213: 6402427931828228819
-    second: Sprites animaciones_8
+      213: 5612820532749322768
+    second: movimientoSticman_8
   - first:
-      213: -8642935666118259053
-    second: Sprites animaciones_9
+      213: 9102543965424055128
+    second: movimientoSticman_9
+  - first:
+      213: -8466718958725168460
+    second: movimientoSticman_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -140,13 +143,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprites animaciones_0
+      name: movimientoSticman_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 128
-        width: 35
-        height: 59
+        x: 80
+        y: 410
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,64 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ff68105025a63ef0800000000000000
-      internalID: -128733981132165133
+      spriteID: 37027fec5e68275f0800000000000000
+      internalID: -760397065494257549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_1
+      name: movimientoSticman_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 128
-        width: 43
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee34ef72030ed2920800000000000000
-      internalID: 2967274226941051886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 128
-        width: 45
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbd9f132eaaf154e0800000000000000
-      internalID: -1994537534127891013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_3
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 128
+        x: 268
+        y: 425
         width: 46
-        height: 59
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +180,86 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc59252ea77c4aff0800000000000000
-      internalID: -25676367260379701
+      spriteID: 29f7b3424d1b34930800000000000000
+      internalID: 4126337208300568466
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_4
+      name: movimientoSticman_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 486
+        y: 460
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57c512e50839620800000000000000
+      internalID: 2779706536792716728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientoSticman_3
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 460
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5940d80355ac26d40800000000000000
+      internalID: 5576241755873674389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientoSticman_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 260
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc46a72781d5d4370800000000000000
+      internalID: 8308399247149655245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientoSticman_5
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 257
         width: 44
-        height: 58
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad4778f0bd1a2d620800000000000000
-      internalID: 2797476280780944602
+      spriteID: 81f422dc4a2049710800000000000000
+      internalID: 1698985866264989464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_5
+      name: movimientoSticman_6
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 47
-        height: 58
+        x: 481
+        y: 258
+        width: 41
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,42 +290,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d5f946d13c01edb0800000000000000
-      internalID: -4764513522593172009
+      spriteID: 5bb0396ae7d913500800000000000000
+      internalID: 374253411334556597
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_6
+      name: movimientoSticman_7
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b44da7c5de18b8e10800000000000000
-      internalID: 2200995699359405131
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_7
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
+        x: 683
+        y: 258
         width: 40
-        height: 58
+        height: 61
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +312,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a032d1957a3acf70800000000000000
-      internalID: 9208236664744456358
+      spriteID: c48f63f2781dd3c70800000000000000
+      internalID: 8952542012825335884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_8
+      name: movimientoSticman_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 44
-        height: 58
+        x: 85
+        y: 57
+        width: 34
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +334,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d219a0584ef9d850800000000000000
-      internalID: 6402427931828228819
+      spriteID: 01aca8a598eb4ed40800000000000000
+      internalID: 5612820532749322768
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_9
+      name: movimientoSticman_9
       rect:
         serializedVersion: 2
-        x: 76
-        y: 0
-        width: 35
-        height: 58
+        x: 280
+        y: 49
+        width: 46
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,8 +356,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39e877ccdcf1e0880800000000000000
-      internalID: -8642935666118259053
+      spriteID: 853f97b528bb25e70800000000000000
+      internalID: 9102543965424055128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: movimientoSticman_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 60
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b20f1437fb208a80800000000000000
+      internalID: -8466718958725168460
       vertices: []
       indices: 
       edges: []
@@ -363,7 +388,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2ca8cb9aa63b884fbc681de8dc31ace
+    spriteID: 2b37da5f490abf94a9e1385410f38832
     internalID: 0
     vertices: []
     indices: 
@@ -373,18 +398,19 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1.0,"y":1.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Sprites animaciones_0: -128733981132165133
-      Sprites animaciones_1: 2967274226941051886
-      Sprites animaciones_2: -1994537534127891013
-      Sprites animaciones_3: -25676367260379701
-      Sprites animaciones_4: 2797476280780944602
-      Sprites animaciones_5: -4764513522593172009
-      Sprites animaciones_6: 2200995699359405131
-      Sprites animaciones_7: 9208236664744456358
-      Sprites animaciones_8: 6402427931828228819
-      Sprites animaciones_9: -8642935666118259053
+      movimientoSticman_0: -760397065494257549
+      movimientoSticman_1: 4126337208300568466
+      movimientoSticman_10: -8466718958725168460
+      movimientoSticman_2: 2779706536792716728
+      movimientoSticman_3: 5576241755873674389
+      movimientoSticman_4: 8308399247149655245
+      movimientoSticman_5: 1698985866264989464
+      movimientoSticman_6: 374253411334556597
+      movimientoSticman_7: 8952542012825335884
+      movimientoSticman_8: 5612820532749322768
+      movimientoSticman_9: 9102543965424055128
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

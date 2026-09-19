@@ -1,37 +1,46 @@
 fileFormatVersion: 2
-guid: cf097586232902748b566f1f67460695
+guid: aac61287f03e72648b2b7baf628b5bfe
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -128733981132165133
-    second: Sprites animaciones_0
+      213: -4824534104760853152
+    second: CaminarBoxeador_0
   - first:
-      213: 2967274226941051886
-    second: Sprites animaciones_1
+      213: 5088568352753257499
+    second: CaminarBoxeador_1
   - first:
-      213: -1994537534127891013
-    second: Sprites animaciones_2
+      213: -5038434466193083953
+    second: CaminarBoxeador_2
   - first:
-      213: -25676367260379701
-    second: Sprites animaciones_3
+      213: 4464056508377212516
+    second: CaminarBoxeador_3
   - first:
-      213: 2797476280780944602
-    second: Sprites animaciones_4
+      213: 3740457544395835422
+    second: CaminarBoxeador_4
   - first:
-      213: -4764513522593172009
-    second: Sprites animaciones_5
+      213: -4651695767030858779
+    second: CaminarBoxeador_5
   - first:
-      213: 2200995699359405131
-    second: Sprites animaciones_6
+      213: 6444791531182662317
+    second: CaminarBoxeador_6
   - first:
-      213: 9208236664744456358
-    second: Sprites animaciones_7
+      213: 1923717364398261773
+    second: CaminarBoxeador_7
   - first:
-      213: 6402427931828228819
-    second: Sprites animaciones_8
+      213: -2725042456297384959
+    second: CaminarBoxeador_8
   - first:
-      213: -8642935666118259053
-    second: Sprites animaciones_9
+      213: 1598568310376545197
+    second: CaminarBoxeador_9
+  - first:
+      213: 5665258573888725427
+    second: CaminarBoxeador_10
+  - first:
+      213: 8965084729621809377
+    second: CaminarBoxeador_11
+  - first:
+      213: 4610581512010845531
+    second: CaminarBoxeador_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprites animaciones_0
+      name: CaminarBoxeador_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 128
-        width: 35
-        height: 59
+        x: 21
+        y: 397
+        width: 82
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -155,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3ff68105025a63ef0800000000000000
-      internalID: -128733981132165133
+      spriteID: 06dd8fe0bcfcb0db0800000000000000
+      internalID: -4824534104760853152
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_1
+      name: CaminarBoxeador_1
       rect:
         serializedVersion: 2
-        x: 78
-        y: 128
-        width: 43
-        height: 59
+        x: 165
+        y: 396
+        width: 74
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -177,20 +186,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee34ef72030ed2920800000000000000
-      internalID: 2967274226941051886
+      spriteID: b1c0729d4f93e9640800000000000000
+      internalID: 5088568352753257499
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_2
+      name: CaminarBoxeador_2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 128
-        width: 45
-        height: 58
+        x: 291
+        y: 397
+        width: 79
+        height: 124
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bbd9f132eaaf154e0800000000000000
-      internalID: -1994537534127891013
+      spriteID: fc1f97a3c82e31ab0800000000000000
+      internalID: -5038434466193083953
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_3
+      name: CaminarBoxeador_3
       rect:
         serializedVersion: 2
-        x: 204
-        y: 128
-        width: 46
-        height: 59
+        x: 434
+        y: 398
+        width: 70
+        height: 129
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +230,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bc59252ea77c4aff0800000000000000
-      internalID: -25676367260379701
+      spriteID: 46628172eb383fd30800000000000000
+      internalID: 4464056508377212516
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_4
+      name: CaminarBoxeador_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 44
-        height: 58
+        x: 32
+        y: 266
+        width: 74
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +252,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad4778f0bd1a2d620800000000000000
-      internalID: 2797476280780944602
+      spriteID: e18c42f9156c8e330800000000000000
+      internalID: 3740457544395835422
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_5
+      name: CaminarBoxeador_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 47
-        height: 58
+        x: 146
+        y: 264
+        width: 92
+        height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +274,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d5f946d13c01edb0800000000000000
-      internalID: -4764513522593172009
+      spriteID: 5ebffea785bd17fb0800000000000000
+      internalID: -4651695767030858779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_6
+      name: CaminarBoxeador_6
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 43
-        height: 58
+        x: 285
+        y: 265
+        width: 82
+        height: 117
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +296,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b44da7c5de18b8e10800000000000000
-      internalID: 2200995699359405131
+      spriteID: da2a69b60cf707950800000000000000
+      internalID: 6444791531182662317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_7
+      name: CaminarBoxeador_7
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 40
-        height: 58
+        x: 429
+        y: 264
+        width: 74
+        height: 121
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +318,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a032d1957a3acf70800000000000000
-      internalID: 9208236664744456358
+      spriteID: d06853920ca62ba10800000000000000
+      internalID: 1923717364398261773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_8
+      name: CaminarBoxeador_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 44
-        height: 58
+        x: 14
+        y: 132
+        width: 92
+        height: 123
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d219a0584ef9d850800000000000000
-      internalID: 6402427931828228819
+      spriteID: 104598ae254be2ad0800000000000000
+      internalID: -2725042456297384959
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_9
+      name: CaminarBoxeador_9
       rect:
         serializedVersion: 2
-        x: 76
-        y: 0
-        width: 35
-        height: 58
+        x: 151
+        y: 135
+        width: 79
+        height: 119
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,8 +362,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 39e877ccdcf1e0880800000000000000
-      internalID: -8642935666118259053
+      spriteID: dabb031a8614f2610800000000000000
+      internalID: 1598568310376545197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarBoxeador_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 132
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1af5938aa0f9e40800000000000000
+      internalID: 5665258573888725427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarBoxeador_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 132
+        width: 88
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8036200116a6c70800000000000000
+      internalID: 8965084729621809377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarBoxeador_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc36f05731cff30800000000000000
+      internalID: 4610581512010845531
       vertices: []
       indices: 
       edges: []
@@ -363,7 +438,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2ca8cb9aa63b884fbc681de8dc31ace
+    spriteID: 1912dc0ab72bbda4dbb79c280441acee
     internalID: 0
     vertices: []
     indices: 
@@ -373,18 +448,21 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1.0,"y":1.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Sprites animaciones_0: -128733981132165133
-      Sprites animaciones_1: 2967274226941051886
-      Sprites animaciones_2: -1994537534127891013
-      Sprites animaciones_3: -25676367260379701
-      Sprites animaciones_4: 2797476280780944602
-      Sprites animaciones_5: -4764513522593172009
-      Sprites animaciones_6: 2200995699359405131
-      Sprites animaciones_7: 9208236664744456358
-      Sprites animaciones_8: 6402427931828228819
-      Sprites animaciones_9: -8642935666118259053
+      CaminarBoxeador_0: -4824534104760853152
+      CaminarBoxeador_1: 5088568352753257499
+      CaminarBoxeador_10: 5665258573888725427
+      CaminarBoxeador_11: 8965084729621809377
+      CaminarBoxeador_12: 4610581512010845531
+      CaminarBoxeador_2: -5038434466193083953
+      CaminarBoxeador_3: 4464056508377212516
+      CaminarBoxeador_4: 3740457544395835422
+      CaminarBoxeador_5: -4651695767030858779
+      CaminarBoxeador_6: 6444791531182662317
+      CaminarBoxeador_7: 1923717364398261773
+      CaminarBoxeador_8: -2725042456297384959
+      CaminarBoxeador_9: 1598568310376545197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

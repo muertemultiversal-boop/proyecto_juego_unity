@@ -1,37 +1,64 @@
 fileFormatVersion: 2
-guid: cf097586232902748b566f1f67460695
+guid: b9da9bfd18ea3d94b8127d0ab3d1dac1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -128733981132165133
-    second: Sprites animaciones_0
+      213: 3934328401063072287
+    second: CaminarAngel_0
   - first:
-      213: 2967274226941051886
-    second: Sprites animaciones_1
+      213: 2597502200614720481
+    second: CaminarAngel_1
   - first:
-      213: -1994537534127891013
-    second: Sprites animaciones_2
+      213: -9049300725002588486
+    second: CaminarAngel_2
   - first:
-      213: -25676367260379701
-    second: Sprites animaciones_3
+      213: -3750461642840189409
+    second: CaminarAngel_3
   - first:
-      213: 2797476280780944602
-    second: Sprites animaciones_4
+      213: -3054680413286318910
+    second: CaminarAngel_4
   - first:
-      213: -4764513522593172009
-    second: Sprites animaciones_5
+      213: -6132012624539721195
+    second: CaminarAngel_5
   - first:
-      213: 2200995699359405131
-    second: Sprites animaciones_6
+      213: 4821223999151311055
+    second: CaminarAngel_6
   - first:
-      213: 9208236664744456358
-    second: Sprites animaciones_7
+      213: 6868856493444338505
+    second: CaminarAngel_7
   - first:
-      213: 6402427931828228819
-    second: Sprites animaciones_8
+      213: -5086511291490634713
+    second: CaminarAngel_8
   - first:
-      213: -8642935666118259053
-    second: Sprites animaciones_9
+      213: 2863289132017434764
+    second: CaminarAngel_9
+  - first:
+      213: -3801476881936177350
+    second: CaminarAngel_10
+  - first:
+      213: 943106158201167531
+    second: CaminarAngel_11
+  - first:
+      213: 5131328826608494314
+    second: CaminarAngel_12
+  - first:
+      213: -2324942495880172541
+    second: CaminarAngel_13
+  - first:
+      213: -3000181435669157333
+    second: CaminarAngel_14
+  - first:
+      213: -1476634135997053709
+    second: CaminarAngel_15
+  - first:
+      213: 6340367564584210653
+    second: CaminarAngel_16
+  - first:
+      213: -3536376899602818371
+    second: CaminarAngel_17
+  - first:
+      213: -4174154276966784817
+    second: CaminarAngel_18
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -64,7 +91,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -102,7 +129,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,101 +167,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sprites animaciones_0
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 128
-        width: 35
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ff68105025a63ef0800000000000000
-      internalID: -128733981132165133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_1
-      rect:
-        serializedVersion: 2
-        x: 78
-        y: 128
-        width: 43
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee34ef72030ed2920800000000000000
-      internalID: 2967274226941051886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_2
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 128
-        width: 45
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbd9f132eaaf154e0800000000000000
-      internalID: -1994537534127891013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_3
-      rect:
-        serializedVersion: 2
-        x: 204
-        y: 128
-        width: 46
-        height: 59
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc59252ea77c4aff0800000000000000
-      internalID: -25676367260379701
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sprites animaciones_4
+      name: CaminarAngel_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
-        width: 44
-        height: 58
+        y: 512
+        width: 256
+        height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,118 +182,250 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad4778f0bd1a2d620800000000000000
-      internalID: 2797476280780944602
+      spriteID: f125817f5da899630800000000000000
+      internalID: 3934328401063072287
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_5
+      name: CaminarAngel_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 47
-        height: 58
+        x: 256
+        y: 512
+        width: 256
+        height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7d5f946d13c01edb0800000000000000
-      internalID: -4764513522593172009
+      spriteID: 6270d478d6af9564588e816b3936e69c
+      internalID: 2597502200614720481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_6
+      name: CaminarAngel_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 43
-        height: 58
+        x: 513
+        y: 504
+        width: 256
+        height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b44da7c5de18b8e10800000000000000
-      internalID: 2200995699359405131
+      spriteID: 3049c6498ddffa34bb2091ccd1a6b2a3
+      internalID: -9049300725002588486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_7
+      name: CaminarAngel_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 40
-        height: 58
+        x: 768
+        y: 512
+        width: 256
+        height: 512
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6a032d1957a3acf70800000000000000
-      internalID: 9208236664744456358
+      spriteID: e466aac3978762643bec1cd35c03b0bb
+      internalID: -3750461642840189409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_8
+      name: CaminarAngel_4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 505
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5aaca199e0f04ea5495e83d4f922d
+      internalID: -3054680413286318910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5bacb637f3db140a8d893a26834718
+      internalID: -6132012624539721195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_6
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.54783666, y: 0.6217654}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3d219a0584ef9d850800000000000000
-      internalID: 6402427931828228819
+      spriteID: 2971e3abfa7586c4293b1a15e711f9c2
+      internalID: 4821223999151311055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sprites animaciones_9
+      name: CaminarAngel_7
       rect:
         serializedVersion: 2
-        x: 76
+        x: 256
         y: 0
-        width: 35
-        height: 58
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.6391605}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 39e877ccdcf1e0880800000000000000
-      internalID: -8642935666118259053
+      spriteID: 22f22d2eb32f8f14485d971baa2e04c2
+      internalID: 6868856493444338505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.521744, y: 0.64568377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10238031eca2a5e43b0a97bd325ffa83
+      internalID: -5086511291490634713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_9
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.52609277, y: 0.6456839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b103dea99457145819458db4a279df
+      internalID: 2863289132017434764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.5260925, y: 0.63263756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f7bfc83e806243a6e7b3e8706326e
+      internalID: -3801476881936177350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaminarAngel_11
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 512
+      alignment: 9
+      pivot: {x: 0.47825623, y: 0.6348118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba07007f9c428a4d96ebacbd67d4d0f
+      internalID: 943106158201167531
       vertices: []
       indices: 
       edges: []
@@ -363,7 +434,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: c2ca8cb9aa63b884fbc681de8dc31ace
+    spriteID: e8f586fe99703e3419b46af4049af67e
     internalID: 0
     vertices: []
     indices: 
@@ -373,18 +444,20 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1.0,"y":1.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":6.0,"y":2.0},"gridSpriteSize":{"x":256.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Sprites animaciones_0: -128733981132165133
-      Sprites animaciones_1: 2967274226941051886
-      Sprites animaciones_2: -1994537534127891013
-      Sprites animaciones_3: -25676367260379701
-      Sprites animaciones_4: 2797476280780944602
-      Sprites animaciones_5: -4764513522593172009
-      Sprites animaciones_6: 2200995699359405131
-      Sprites animaciones_7: 9208236664744456358
-      Sprites animaciones_8: 6402427931828228819
-      Sprites animaciones_9: -8642935666118259053
+      CaminarAngel_0: 3934328401063072287
+      CaminarAngel_1: 2597502200614720481
+      CaminarAngel_10: -3801476881936177350
+      CaminarAngel_11: 943106158201167531
+      CaminarAngel_2: -9049300725002588486
+      CaminarAngel_3: -3750461642840189409
+      CaminarAngel_4: -3054680413286318910
+      CaminarAngel_5: -6132012624539721195
+      CaminarAngel_6: 4821223999151311055
+      CaminarAngel_7: 6868856493444338505
+      CaminarAngel_8: -5086511291490634713
+      CaminarAngel_9: 2863289132017434764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
