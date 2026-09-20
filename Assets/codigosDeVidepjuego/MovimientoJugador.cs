@@ -2,7 +2,9 @@ using UnityEngine;
 
 public class MovimientoJugador : MonoBehaviour
 {
-    public float velocidad = 5f; // la velocidad del stickman, se puede cambiar desde el inspector
+    public float velocidad = 5f;
+    public float rangoGolpe = 0.5f;
+    public float retrasoGolpe = 0.3f;
 
     private bool moviendoIzquierda = false;
     private bool moviendoDerecha = false;
@@ -18,29 +20,26 @@ public class MovimientoJugador : MonoBehaviour
 
     void Update()
     {
-        // esto es para que no se resetee el tamaño del personaje cuando se voltea
         float tamano = Mathf.Abs(transform.localScale.x);
 
         if (moviendoIzquierda)
         {
             rb.linearVelocity = new Vector2(-velocidad, rb.linearVelocity.y);
-            transform.localScale = new Vector3(-tamano, transform.localScale.y, transform.localScale.z); // voltea para la izquierda
+            transform.localScale = new Vector3(-tamano, transform.localScale.y, transform.localScale.z);
         }
         else if (moviendoDerecha)
         {
             rb.linearVelocity = new Vector2(velocidad, rb.linearVelocity.y);
-            transform.localScale = new Vector3(tamano, transform.localScale.y, transform.localScale.z); // vuelve a mirar a la derecha
+            transform.localScale = new Vector3(tamano, transform.localScale.y, transform.localScale.z);
         }
         else
         {
-            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // quieto si no toco nada
+            rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
         }
 
         bool caminando = moviendoIzquierda || moviendoDerecha;
-        animator.SetBool("Caminando", caminando); // le aviso al animator si esta caminando o no
+        animator.SetBool("Caminando", caminando);
     }
-
-    // metodos que llaman los botones de la pantalla
 
     public void EmpezarIzquierda()
     {
@@ -64,6 +63,33 @@ public class MovimientoJugador : MonoBehaviour
 
     public void Atacar()
     {
-        animator.SetTrigger("Atacar"); // activa la animacion de golpe
+        if (animator.GetCurrentAnimatorStateInfo(0).IsTag("Ataque"))
+        {
+            return;
+        }
+
+        animator.SetTrigger("Atacar");
+        Invoke("Golpear", retrasoGolpe);
+    }
+
+    void Golpear()
+    {
+        float lado = 1;
+        if (transform.localScale.x < 0)
+        {
+            lado = -1;
+        }
+
+        Vector2 punto = new Vector2(transform.position.x + lado * rangoGolpe, transform.position.y);
+        Collider2D[] golpeados = Physics2D.OverlapCircleAll(punto, rangoGolpe);
+
+        foreach (Collider2D objeto in golpeados)
+        {
+            Vida vida = objeto.GetComponent<Vida>();
+            if (vida != null && objeto.gameObject != gameObject)
+            {
+                vida.RecibirGolpe();
+            }
+        }
     }
 }
