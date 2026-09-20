@@ -242,6 +242,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c029f22c5b478164ca7215dc8edfdfa6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IniciarAlMapa
+  textoAviso: {fileID: 0}
 --- !u!1 &530508513
 GameObject:
   m_ObjectHideFlags: 0
@@ -408,6 +409,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c029f22c5b478164ca7215dc8edfdfa6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::IniciarAlMapa
+  textoAviso: {fileID: 0}
 --- !u!4 &740785272
 Transform:
   m_ObjectHideFlags: 0
@@ -539,7 +541,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 596207990447118594, guid: 07abfb3b6e07e394da5f58159e3d9569, type: 3}
+  m_Sprite: {fileID: 8859608788038110838, guid: 67cf14dda6db18f48b22fff698576378, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1049,7 +1051,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 5723990872313844117, guid: 090a738c91b948147bcb2a5e334f7bb7, type: 3}
+  m_Sprite: {fileID: 6406481575272478760, guid: 72039f586a1e0ed4e8c9580826dad15b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

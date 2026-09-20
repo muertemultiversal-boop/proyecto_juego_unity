@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 981a4811a9dc53f4e9e3ab705247b424
+guid: 9a7a585e2503a1a458adc1d4f954e635
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8403859480645045296
-    second: salir del juego original_0
+      213: 5237540552095645796
+    second: SpriteSeleccionarPersonaje_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: salir del juego original_0
+      name: SpriteSeleccionarPersonaje_0
       rect:
         serializedVersion: 2
         x: 0
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d37ad1f35e7f5b80800000000000000
-      internalID: -8403859480645045296
+      spriteID: 4604d58e16b7fa840800000000000000
+      internalID: 5237540552095645796
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      salir del juego original_0: -8403859480645045296
+      SpriteSeleccionarPersonaje_0: 5237540552095645796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
