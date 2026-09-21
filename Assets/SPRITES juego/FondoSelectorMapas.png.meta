@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6f051d01a8d3def42863b54250aac01e
+guid: 36c1ed0aea1f6b84f8e98a4050a9cb0e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3726881450302673536
-    second: BotonVolveratras_0
+      213: 3266861830444445558
+    second: FondoSelectorMapas_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BotonVolveratras_0
+      name: FondoSelectorMapas_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 128
-        height: 64
+        width: 1920
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0829845eeea88b330800000000000000
-      internalID: 3726881450302673536
+      spriteID: 67f6ce5b689365d20800000000000000
+      internalID: 3266861830444445558
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BotonVolveratras_0: 3726881450302673536
+      FondoSelectorMapas_0: 3266861830444445558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

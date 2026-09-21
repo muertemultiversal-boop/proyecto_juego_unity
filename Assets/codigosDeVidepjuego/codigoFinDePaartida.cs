@@ -8,6 +8,7 @@ public class FinDePartida : MonoBehaviour
     public GameObject panelPerdiste;
     public GameObject panelEmpate;
     public float tiempoEspera = 0.5f;
+    public float tiempoVolver = 3f;
 
     private bool jugadorMurio;
     private bool enemigoMurio;
@@ -39,6 +40,9 @@ public class FinDePartida : MonoBehaviour
         if (jugadorMurio && enemigoMurio) panelEmpate.SetActive(true);
         else if (enemigoMurio) panelGanaste.SetActive(true);
         else panelPerdiste.SetActive(true);
+
+        yield return new WaitForSecondsRealtime(tiempoVolver);
+        IrAlInicio();
     }
 
     public void IrAlInicio()

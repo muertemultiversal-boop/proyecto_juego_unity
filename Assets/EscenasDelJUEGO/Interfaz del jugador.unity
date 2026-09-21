@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 450456429}
   - component: {fileID: 450456428}
   m_Layer: 5
-  m_Name: Image
+  m_Name: FondoInicio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -153,8 +153,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.0010271, y: 0.00062559}
-  m_SizeDelta: {x: 830.8, y: 435.4}
+  m_AnchoredPosition: {x: 4.2656, y: -1.201}
+  m_SizeDelta: {x: 839.329, y: 433}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &450456428
 MonoBehaviour:
@@ -307,7 +307,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -23, y: -35}
+  m_AnchoredPosition: {x: -38, y: -61.787}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &690779383
@@ -363,8 +363,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -410,6 +410,38 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690779381}
   m_CullTransparentMesh: 1
+--- !u!1 &734519734
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 734519735}
+  m_Layer: 0
+  m_Name: Managers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &734519735
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 734519734}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 857637123}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &831991125
 GameObject:
   m_ObjectHideFlags: 0
@@ -567,7 +599,7 @@ GameObject:
   - component: {fileID: 857637123}
   - component: {fileID: 857637122}
   m_Layer: 0
-  m_Name: gameManager
+  m_Name: GestorDeIniciar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -594,12 +626,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 857637121}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 469.85635, y: 200.91089, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 734519735}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &971234844
 GameObject:
@@ -852,7 +884,7 @@ GameObject:
   - component: {fileID: 1320480778}
   - component: {fileID: 1320480780}
   m_Layer: 0
-  m_Name: musicaLobby
+  m_Name: GestormusicaLobby
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -963,7 +995,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1320480777}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 371.03418, y: 148.21962, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -1430,7 +1462,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 314.53766, y: -180.21176}
+  m_AnchoredPosition: {x: 310.14, y: -180.21}
   m_SizeDelta: {x: 201.7246, y: 74.9845}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2022044918
@@ -1509,7 +1541,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -8613661278544483767, guid: 83cbecd8f7b355142bff474b757b69d6, type: 3}
+  m_Sprite: {fileID: 6451471192437316722, guid: ee48872d784fe514dbf912cd039936b0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1547,5 +1579,5 @@ SceneRoots:
   - {fileID: 1548365250}
   - {fileID: 971234848}
   - {fileID: 486664409}
-  - {fileID: 857637123}
+  - {fileID: 734519735}
   - {fileID: 1320480779}
